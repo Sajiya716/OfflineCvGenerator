@@ -1,0 +1,14 @@
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\bin\Debug\net8.0-windows\OfflineCvBioDataGenerator2.exe
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\bin\Debug\net8.0-windows\OfflineCvBioDataGenerator2.deps.json
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\bin\Debug\net8.0-windows\OfflineCvBioDataGenerator2.runtimeconfig.json
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\bin\Debug\net8.0-windows\OfflineCvBioDataGenerator2.dll
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\bin\Debug\net8.0-windows\OfflineCvBioDataGenerator2.pdb
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.AssemblyInfoInputs.cache
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.AssemblyInfo.cs
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.csproj.CoreCompileInputs.cache
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.dll
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\refint\OfflineCvBioDataGenerator2.dll
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.pdb
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\OfflineCvBioDataGenerator2.genruntimeconfig.cache
+C:\Users\Saj\Documents\cv project\OfflineCvBioDataGenerator2\obj\Debug\net8.0-windows\ref\OfflineCvBioDataGenerator2.dll
